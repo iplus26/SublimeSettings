@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"Babel",
+		"Color Highlighter",
+		"CSS Format",
+		"Default File Type",
+		"JavaScript & NodeJS Snippets",
+		"jQuery",
+		"jsfmt",
+		"JSHint Gutter",
+		"Material Theme",
+		"Package Control",
+		"Sass",
+		"SublimeLinter-jsxhint"
+	]
+}

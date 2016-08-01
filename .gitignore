@@ -1,0 +1,12 @@
+# Ugly .gitignore file made by Ivan Jiang (iplus26)
+
+# Ignore system files
+.DS_Store
+
+# Ignore everything...
+*/**
+!.gitignore
+
+# ...except the preferences file I've modified
+!*/*.sublime-settings
+!*/.jshintrc

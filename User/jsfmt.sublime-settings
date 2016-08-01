@@ -1,0 +1,29 @@
+{
+  "autoformat": false,
+  "options": {
+    "lineBreak": {
+      "after": {
+        "ObjectPatternComma": "<=1"
+      }
+    },
+    "indent": {
+      "value": "    "
+    },
+    "plugins": [
+      "esformatter-quotes",
+      "esformatter-semicolons",
+      "esformatter-braces",
+      // "esformatter-dot-notation",
+      "esformatter-jsx"
+    ],
+    "jsx": {
+      "formatJSX": true,
+      // change these to your preferred values
+      // refer to https://github.com/royriojas/esformatter-jsx#best-configuration for more options
+      "attrsOnSameLineAsTag": false,
+      "maxAttrsOnTag": 1,
+      "firstAttributeOnSameLine": true,
+      "alignWithFirstAttribute": true
+    }
+  }
+}
