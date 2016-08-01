@@ -4,6 +4,7 @@
 		"html",
 		"htm",
 		"html.erb",
-		"ejs"
+		"ejs",
+		"ftl"
 	]
 }
