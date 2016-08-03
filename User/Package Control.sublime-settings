@@ -16,6 +16,7 @@
 		"Material Theme",
 		"Package Control",
 		"Sass",
-		"SublimeLinter-jsxhint"
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint"
 	]
 }

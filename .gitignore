@@ -8,5 +8,5 @@
 !.gitignore
 
 # ...except the preferences file I've modified
-!*/*.sublime-settings
+!User/*.sublime-settings
 !*/.jshintrc

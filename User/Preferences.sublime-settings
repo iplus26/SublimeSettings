@@ -5,6 +5,8 @@
 	"ignored_packages":
 	[
 		"JavaScript",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"Vintage"
 	],
 	"material_theme_accent_blue": true,
