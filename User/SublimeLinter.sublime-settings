@@ -1,0 +1,16 @@
+{
+    "user": {
+        "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
+        "lint_mode": "load/save",
+        "linters": {
+            "eslint": {
+                "@disable": false,
+                "args": [
+                    "--config ~/Library/Application Support/Sublime Text 3/Packages/User/.eslintrc.json"
+                ],
+                "excludes": []
+            }
+        },
+        "mark_style": "outline"
+    }
+}
