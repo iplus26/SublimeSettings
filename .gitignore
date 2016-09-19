@@ -5,6 +5,7 @@
 
 # Ignore everything...
 */**
+*
 !.gitignore
 
 # ...except the preferences file I've modified
