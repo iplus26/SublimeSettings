@@ -14,7 +14,7 @@ After you set up your repo on your 1st account, let's see how to **sync your set
 2. `cd ~/Library/Application\ Support/Sublime\ Text\ 3 && rm -rf *`. Delete the current settings and free yourself. 
 3. `git clone https://github.com/iplus26/SublimeSettings.git Packages && cd Packages`.
 4. Comment out the following lines in `Packages/User/Preferences.sublime-settings`: `//"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme", ... // "theme": "Material-Theme.sublime-theme",`. (If not, Sublime Text won't find the theme and color scheme and throw errors, before we install the Package Control and Material Theme package)
-5. Open Sublime Text 3 and install Package Control (You may have installed before but you just delete it :P). Follow the steps on [PackageControl.io](https://packagecontrol.io/installation). 
+5. Open Sublime Text 3 and install Package Control (You may have installed before but you just delete it :P). <del>Follow the steps on [PackageControl.io](https://packagecontrol.io/installation). </del>Since build 3124 (Sep 22, 2016), you could install Package Control directly from Sublime Text 3 menu. 
 6. Wait for a minute that Package Control will automatically install the packages listed in `Packages/User/Package Control.sublime-settings`. You can check out the progress in console or <kbd>command + shift + P</kbd> and type `list` to list installed packages. 
 7. Restart Sublime Text to make sure everything works fine. 
 8. `git checkout User/Preferences.sublime-settings` to use the theme and color scheme we commented out before. 
