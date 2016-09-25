@@ -8,10 +8,14 @@
     },
     "rules": {
         "semi": "warn",
-        "unused": "warn"
+        "no-unused-vars": "warn"
     },
     "env": {
         "browser": true,
         "node": true
-    }
+    },
+    "globals": {
+        "$": true // for jQuery or Zepto
+    },
+    "extends": "eslint:recommended"
 }

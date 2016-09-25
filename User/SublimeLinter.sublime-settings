@@ -6,11 +6,13 @@
             "eslint": {
                 "@disable": false,
                 "args": [
-                    "--config ~/Library/Application Support/Sublime Text 3/Packages/User/.eslintrc.json"
+                    "--config",
+                    "/Users/ivanxfjiang/Library/Application Support/Sublime Text 3/Packages/User/.eslintrc.json"
                 ],
                 "excludes": []
             }
         },
-        "mark_style": "outline"
+        "mark_style": "solid underline",
+        "show_errors_on_save": false
     }
 }
