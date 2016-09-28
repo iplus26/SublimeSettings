@@ -19,3 +19,7 @@ After you set up your repo on your 1st account, let's see how to **sync your set
 7. Restart Sublime Text to make sure everything works fine. 
 8. `git checkout User/Preferences.sublime-settings` to use the theme and color scheme we commented out before. 
 9. Keep in mind that update the git repo whenever you've changed the settings before you switched to another account. 
+
+# Quick Fix
+
+If you've found something wrong with your Package Control, a quick fix trick is delete all the folders except `User/` under `~/Library/Application Support/Sublime Text 3/` and restart Sublime Text 3 and reinstall Package Control. 

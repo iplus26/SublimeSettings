@@ -15,7 +15,8 @@
         "node": true
     },
     "globals": {
-        "$": true // for jQuery or Zepto
+        "$": true,      // for jQuery or Zepto
+	"angular": true // for Angular
     },
     "extends": "eslint:recommended"
 }
