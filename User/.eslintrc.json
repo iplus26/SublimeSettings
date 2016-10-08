@@ -7,7 +7,7 @@
         }
     },
     "rules": {
-        "semi": "warn",
+        // "semi": "warn",
         "no-unused-vars": "warn",
         "no-console": "warn"
     },
@@ -17,7 +17,7 @@
     },
     "globals": {
         "$": true,      // for jQuery or Zepto
-	"angular": true // for Angular
+	    "angular": true // for Angular
     },
     "extends": "eslint:recommended"
 }
