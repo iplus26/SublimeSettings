@@ -10,13 +10,20 @@
 		"Color Highlighter",
 		"CSS Format",
 		"Default File Type",
+		"DocBlockr",
+		"HTML Minifier",
+		"HTMLBeautify",
 		"JavaScript & NodeJS Snippets",
 		"jQuery",
 		"jsfmt",
+		"Markdown Preview",
 		"Material Theme",
+		"nginx",
 		"Package Control",
 		"Sass",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint"
+		"SublimeLinter-contrib-eslint",
+		"TypeScript",
+		"Typora Markdown App (OSX)"
 	]
 }
