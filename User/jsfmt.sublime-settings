@@ -14,7 +14,7 @@
       "esformatter-semicolons",
       "esformatter-braces",
       // "esformatter-dot-notation",
-      "esformatter-jsx"
+      // "esformatter-jsx"
     ],
     "jsx": {
       "formatJSX": true,
